@@ -4,3 +4,5 @@ second change in branch 2
 branch 2를 생성함
 
 방금 branch 2는 오타임
+
+branch 2를 만든 시각은 8시 24분임
