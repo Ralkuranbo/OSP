@@ -1,4 +1,4 @@
 git text
 
 test[Ralkuranbo]
-
+리모트
