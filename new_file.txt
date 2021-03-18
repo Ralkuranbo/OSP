@@ -1,4 +1,6 @@
-git text
+branch 1 에서 수정 1번 
+second change in branch 2
 
-test[Ralkuranbo]
-리모트
+
+
+방금 branch 2는 오타임
