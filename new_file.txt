@@ -1,4 +1,3 @@
 branch 1 에서 수정 1번 
-
-test[Ralkuranbo]
+second change in branch 2
 리모트
