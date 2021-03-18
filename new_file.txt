@@ -1,4 +1,4 @@
-git text
+branch 1 에서 수정 1번 
 
 test[Ralkuranbo]
 리모트
